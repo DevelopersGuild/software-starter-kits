@@ -38,6 +38,23 @@ Javacript and Typescript.
 React is pretty much the only framework Javascript hipsters will touch https://reactjs.org
 React Native is pretty sweet for writing Mobile apps for Android and IOS https://facebook.github.io/react-native/
 
+## Upgrade your JS know how 
+
+MDN has some pretty cool stuff https://developer.mozilla.org/en-US/docs/Web/JavaScript
+did you know Mozilla has it's headquarters in Mountain View next fun fact Netscape invented Javascript in Mountain View.
+
+Learn about cool programming concepts and enjoy some nice videos from fun fun function 
+https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
+
+## Testing Frameworks 
+https://mochajs.org and 
+https://www.chaijs.com are both essential to writing some nice tests.
+
+Node also has bindings for tools like webdriver and selenium if thats your thing. 
+
+## Bundling tools 
+https://webpack.js.org 
+
 ### Music
 There's tons of playlist out there but why not support a fellow Hacker with his Spotify playlists
 https://open.spotify.com/playlist/3OpN68bozSVu4fgnb5WeoP?si=P8Db9W45S--OCHj6r_Drxw
