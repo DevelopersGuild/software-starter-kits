@@ -30,6 +30,13 @@ OSX does not which is why the community developed this package manager call home
 it's pretty much universal in the world of development everyone knows about it. It also manages packages and
 updates them for you.
 
+### JS runtimes built on the V8 engine
+This is a must for using important npm packages and building apps in serverside 
+Javacript and Typescript.
+
+### Modern UI Frameworks
+React is pretty much the only framework Javascript hipsters will touch https://reactjs.org
+React Native is pretty sweet for writing Mobile apps for Android and IOS https://facebook.github.io/react-native/
 
 ### Music
 There's tons of playlist out there but why not support a fellow Hacker with his Spotify playlists
