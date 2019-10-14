@@ -35,8 +35,8 @@ This is a must for using important npm packages and building apps in serverside
 Javacript and Typescript.
 
 ### Modern UI Frameworks
-React is pretty much the only framework Javascript hipsters will touch https://reactjs.org
-React Native is pretty sweet for writing Mobile apps for Android and IOS https://facebook.github.io/react-native/
+- React is pretty much the only framework Javascript hipsters will touch https://reactjs.org
+- React Native is pretty sweet for writing Mobile apps for Android and IOS https://facebook.github.io/react-native/
 
 ## Upgrade your JS know how 
 
@@ -47,8 +47,8 @@ Learn about cool programming concepts and enjoy some nice videos from fun fun fu
 https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
 
 ## Testing Frameworks 
-https://mochajs.org and 
-https://www.chaijs.com are both essential to writing some nice tests.
+- https://mochajs.org and 
+- https://www.chaijs.com are both essential to writing some nice tests.
 
 Node also has bindings for tools like webdriver and selenium if thats your thing. 
 
@@ -56,13 +56,13 @@ Node also has bindings for tools like webdriver and selenium if thats your thing
 https://webpack.js.org 
 
 ## API toolings 
-https://graphql.org for building graphql APIS
-https://expressjs.com for building a REST API or for a HTTP Server
+- https://graphql.org for building graphql APIS
+- https://expressjs.com for building a REST API or for a HTTP Server
 
 ## Linting and Styling
-https://github.com/airbnb/javascript if you want your teammates to like you. 
-https://eslint.org linting tool 
-https://github.com/prettier/prettier formatting tool.
+- https://github.com/airbnb/javascript if you want your teammates to like you. 
+- https://eslint.org linting tool 
+- https://github.com/prettier/prettier formatting tool.
 
 ### Music
 There's tons of playlist out there but why not support a fellow Hacker with his Spotify playlists
