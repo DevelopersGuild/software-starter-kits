@@ -55,6 +55,10 @@ Node also has bindings for tools like webdriver and selenium if thats your thing
 ## Bundling tools 
 https://webpack.js.org 
 
+## API toolings 
+https://graphql.org for building graphql APIS
+https://expressjs.com for building a REST API or for a HTTP Server
+
 ### Music
 There's tons of playlist out there but why not support a fellow Hacker with his Spotify playlists
 https://open.spotify.com/playlist/3OpN68bozSVu4fgnb5WeoP?si=P8Db9W45S--OCHj6r_Drxw
