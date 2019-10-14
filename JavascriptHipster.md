@@ -59,6 +59,11 @@ https://webpack.js.org
 https://graphql.org for building graphql APIS
 https://expressjs.com for building a REST API or for a HTTP Server
 
+## Linting and Styling
+https://github.com/airbnb/javascript if you want your teammates to like you. 
+https://eslint.org linting tool 
+https://github.com/prettier/prettier formatting tool.
+
 ### Music
 There's tons of playlist out there but why not support a fellow Hacker with his Spotify playlists
 https://open.spotify.com/playlist/3OpN68bozSVu4fgnb5WeoP?si=P8Db9W45S--OCHj6r_Drxw
