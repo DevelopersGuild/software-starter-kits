@@ -68,3 +68,8 @@ https://webpack.js.org
 There's tons of playlist out there but why not support a fellow Hacker with his Spotify playlists
 https://open.spotify.com/playlist/3OpN68bozSVu4fgnb5WeoP?si=P8Db9W45S--OCHj6r_Drxw
 
+### Extra (Language Transpilers) 
+- https://www.typescriptlang.org really popular typing system for JS (easiest to learn)
+- https://coffeescript.org less popular tool for ruby like syntax in js.
+- https://bucklescript.github.io - OCaml and Reason transpilation to JS
+
